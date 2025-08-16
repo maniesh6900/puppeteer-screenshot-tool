@@ -51,7 +51,7 @@ puppeteer-screenshot-tool/
 
 ### Basic Usage
 
-Run the script with default settings (captures https://example.com):
+Run the script with default settings (captures https://news.google.com/home):
 
 ```bash
 node src/index.js
