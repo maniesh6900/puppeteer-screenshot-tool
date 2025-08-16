@@ -54,13 +54,7 @@ puppeteer-screenshot-tool/
 Run the script with default settings (captures https://example.com):
 
 ```bash
-npm start
-```
-
-or
-
-```bash
-node index.js
+node src/index.js
 ```
 
 ### Customization
